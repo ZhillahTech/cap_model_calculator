@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.bg-primary {
+  background-color: gold;
+  color: white;
+}
+.bg-light {
+  background: whitesmoke;
+  color: yellowgreen;
+}
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.mg {
+  margin: 5rem;
+}
+.calculator {
+  width: 500px;
+  height: 500px;
+}
